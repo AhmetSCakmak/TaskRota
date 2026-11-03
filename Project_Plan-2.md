@@ -7,7 +7,7 @@
 | **Course** | ISE 304 — Software Engineering |
 | **Report name** | Project Plan |
 | **Project title** | TaskRota – Shared Job & Task Manager |
-| **Group name / number** | TaskRota / 6 |
+| **Group name** | TaskRota |
 | **Group members** | Kaan Gürsu — 150240201, Zeynep Sude Genç — 150230204, Ahmet Selim Çakmak — 150240702, Zümra Aydoğan — 150230202, Nehir Güneş Aydemir — 150230221, Esra Gürses — 150150213 |
 | **Instructor** | Abdullah Cihan Ak |
 | **Submission date** | 2026-11-03 |
